@@ -16,6 +16,7 @@ Dune: [xpertknight](https://dune.com/xpertknight), [x1a0x1a0](https://dune.com/x
 
 | Study | What it shows | Data and code |
 |---|---|---|
+| crvUSD in the 8 November 2026 ETH flush | All five PegKeepers held zero debt. A net 3.85M crvUSD was sold into the peg pools through Curve crvUSD pools where Yield Basis is the LP, 3.64M of it through the BTC pools, and the peg fell from 0.9979 to 0.9942. Across ten drawdowns since Yield Basis launched, the median ratio of crvUSD sold into the peg pools to BTC or ETH sold into the volatile crvUSD pools was 0.49. | [repo](https://github.com/x-pertknight/crvusd-soft-liquidation-flush) · `python3 -I code/recompute.py` |
 | Uniswap v3 rebalancing | At a 5 percent width, re-centering needs a 111.6 percent fee APR to break even on a trending window. Mostly not worth it. | [repo](https://github.com/x-pertknight/clre-rebalancing-study) · `python3 reproduce_gate.py` · [monitor](https://dune.com/x1a0x1a0/clre-break-even-monitor) |
 | Liquity V2: who sets the interest rate | As of 26 July 2026, batch managers set the rate on 58.7 percent of live debt, and upfront fees from rate changes fall on the delegator. | [Dune](https://dune.com/x1a0x1a0/liquity-v2-who-actually-sets-the-interest-rate) |
 | Crypto card mirage | About 8 percent of claimed neobank card volume ($726M of a claimed $9B) was verifiable on-chain at publication. | [Dune](https://dune.com/xpertknight/the-crypto-card-mirage) |
