@@ -18,6 +18,6 @@ DeFi risk analyst in Barcelona. I rebuild what happened on chain, check it again
 
 Dispute figures differ across these studies because scope, window and unit differ. Each README says which. [numbers.md](numbers.md) lists every figure on this page with its scope, window, unit and source.
 
-[Dune: The Crypto Card Mirage](https://dune.com/xpertknight/the-crypto-card-mirage) · LinkedIn: [marco-bc-amendola](https://www.linkedin.com/in/marco-bc-amendola)
+LinkedIn: [marco-bc-amendola](https://www.linkedin.com/in/marco-bc-amendola)
 
 Not investment advice. Wallets are reported in aggregate. The one exception is a wallet identified in public charging documents.
