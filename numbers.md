@@ -28,10 +28,10 @@ Both describe UMA disputes, but they answer different questions.
 
 The settlement-tracker README, lines 47 to 55, gives the same reconciliation from that repo's side.
 
-## Published earlier, not confirmed
+## Published earlier, since superseded
 
 | Figure | What it was | Why it is not used |
 |---|---|---|
-| 31% | Overturns among UMA disputes decided on substance, too early resets left out, from my Dune dashboard UMA Oracle, Base Rates vs Anecdotes | When checked on 18 November 2026 the dashboard's stored results had expired, so the figure could not be confirmed. It is not quoted on this profile. |
+| 31% | Overturns among UMA disputes decided on substance, too early resets left out, from my Dune dashboard UMA Oracle, Base Rates vs Anecdotes | A rerun on 22 November 2026 gives 42.6% over the oracle's lifetime to that date (1,140 of 2,673 disputes decided on substance); 31% was the reading of 2 July 2026. The rate has risen since, so neither figure is quoted on this profile. |
 
 It differs from the 14% and the 24% because it came from a dashboard query over the lifetime of three oracle versions on Polygon, every requester, counted per request, a much wider scope than either study.
