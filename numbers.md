@@ -27,3 +27,11 @@ Both describe UMA disputes, but they answer different questions.
 * **24.0%** asks the same question (final outcome against the first proposal) on a later window that does not overlap, 11 October to 17 November 2026. 1,019 of its 1,037 disputes are on the two paths that use the newer managed oracle. It counts markets and leaves out the 108 still open at the cutoff.
 
 The settlement-tracker README, lines 47 to 55, gives the same reconciliation from that repo's side.
+
+## Published earlier, not confirmed
+
+| Figure | What it was | Why it is not used |
+|---|---|---|
+| 31% | Overturns among UMA disputes decided on substance, too early resets left out, from my Dune dashboard UMA Oracle, Base Rates vs Anecdotes | When checked on 18 November 2026 the dashboard's stored results had expired, so the figure could not be confirmed. It is not quoted on this profile. |
+
+It differs from the 14% and the 24% because it came from a dashboard query over the lifetime of three oracle versions on Polygon, every requester, counted per request, a much wider scope than either study.
