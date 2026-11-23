@@ -13,6 +13,7 @@ DeFi risk analyst in Barcelona. I rebuild what happened on chain, check it again
 ## Also
 
 * [TBILL as collateral on Morpho](https://github.com/x-pertknight/tbill-collateral-memo): whether OpenEden's tokenized T-bill could back a Morpho market. Rejected today: transfers need issuer KYC approval, and neither Morpho Blue nor the busiest Morpho liquidators tested is approved.
+* [Polymarket fill counting](https://github.com/x-pertknight/polymarket-fill-counting): 60 markets that closed in October 2026, fill events checked against the cash in the transaction receipts. Crediting each fill to both maker and taker counts the same cash 1.68 times (median). Polymarket's reported volume is within 5% of the sum of fill rows in 21 of 35 fully read markets.
 * [UMA disputes on Polygon, 12 months](https://github.com/x-pertknight/uma-disputes-live): 4,423 settled disputes. 54% reset as too early, 22% overturned, 24% upheld. A dispute rate is not an error rate.
 * [The Missing Greek](https://github.com/x-pertknight/prediction-market-integrity): settlement risk on Polymarket's classic UMA adapters, April 2025 to July 2026. In 136 of 973 disputes the final outcome differed from the original proposal (14.0%). An earlier headline of mine (74.7%) is retracted in the repo.
 * [Uniswap v3 rebalancing](https://github.com/x-pertknight/clre-rebalancing-study): a simulation on hourly ETH/USD prices. Recentering a ±5% range needed a 111.6% fee APR to break even on a trending window.
